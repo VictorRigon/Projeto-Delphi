@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2022/03/26 12:48:47.000.988,=C:\Users\Victor\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/03/26 12:49:12.000.534,=C:\Users\Victor\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2022/03/26 12:49:30.000.297,C:\Users\Victor\Documents\Embarcadero\Studio\Projects\Datam.pas=C:\Users\Victor\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2022/03/26 12:49:30.000.297,C:\Users\Victor\Documents\Embarcadero\Studio\Projects\Datam.dfm=C:\Users\Victor\Documents\Embarcadero\Studio\Projects\Unit2.dfm</Transaction>
+    <Transaction>2022/03/26 12:54:08.000.611,=C:\Users\Victor\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2022/03/26 12:54:39.000.348,C:\Users\Victor\Documents\Embarcadero\Studio\Projects\UDataM.pas=C:\Users\Victor\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2022/03/26 12:54:39.000.348,C:\Users\Victor\Documents\Embarcadero\Studio\Projects\UDataM.dfm=C:\Users\Victor\Documents\Embarcadero\Studio\Projects\Unit2.dfm</Transaction>
+    <Transaction>2022/03/26 12:56:35.000.789,C:\Users\Victor\Documents\Embarcadero\Studio\Projects\uMenu.dfm=C:\Users\Victor\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2022/03/26 12:56:35.000.789,C:\Users\Victor\Documents\Embarcadero\Studio\Projects\uMenu.pas=C:\Users\Victor\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/03/26 12:59:06.000.729,C:\Users\Victor\Desktop\dev2\UDataM.pas=C:\Users\Victor\Documents\Embarcadero\Studio\Projects\UDataM.pas</Transaction>
+    <Transaction>2022/03/26 12:59:06.000.729,C:\Users\Victor\Desktop\dev2\UDataM.dfm=C:\Users\Victor\Documents\Embarcadero\Studio\Projects\UDataM.dfm</Transaction>
+    <Transaction>2022/03/26 12:59:08.000.076,C:\Users\Victor\Desktop\dev2\uMenu.pas=C:\Users\Victor\Documents\Embarcadero\Studio\Projects\uMenu.pas</Transaction>
+    <Transaction>2022/03/26 12:59:08.000.076,C:\Users\Victor\Desktop\dev2\uMenu.dfm=C:\Users\Victor\Documents\Embarcadero\Studio\Projects\uMenu.dfm</Transaction>
+    <Transaction>2022/03/26 12:59:40.000.527,C:\Users\Victor\Desktop\dev2\ArkType.dproj=C:\Users\Victor\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2022/03/26 13:30:32.000.580,=C:\Users\Victor\Desktop\dev2\Unit1.pas</Transaction>
+    <Transaction>2022/03/26 13:34:27.000.041,=C:\Users\Victor\Desktop\dev2\Unit1.pas</Transaction>
+    <Transaction>2022/03/26 13:43:10.000.330,C:\Users\Victor\Desktop\dev2\uCliente.dfm=C:\Users\Victor\Desktop\dev2\Unit1.dfm</Transaction>
+    <Transaction>2022/03/26 13:43:10.000.330,C:\Users\Victor\Desktop\dev2\uCliente.pas=C:\Users\Victor\Desktop\dev2\Unit1.pas</Transaction>
+    <Transaction>2022/03/26 13:55:40.000.334,=C:\Users\Victor\Desktop\dev2\Unit1.pas</Transaction>
+    <Transaction>2022/03/26 13:57:08.000.389,C:\Users\Victor\Desktop\dev2\uClienteCadastro.pas=C:\Users\Victor\Desktop\dev2\Unit1.pas</Transaction>
+    <Transaction>2022/03/26 13:57:08.000.389,C:\Users\Victor\Desktop\dev2\uClienteCadastro.dfm=C:\Users\Victor\Desktop\dev2\Unit1.dfm</Transaction>
+    <Transaction>2022/03/26 16:23:12.000.227,=C:\Users\Victor\Desktop\dev2\Unit1.pas</Transaction>
+    <Transaction>2022/03/26 16:23:22.000.113,=C:\Users\Victor\Desktop\dev2\Unit1.pas</Transaction>
+    <Transaction>2022/03/26 16:23:34.000.470,=C:\Users\Victor\Desktop\dev2\Unit1.pas</Transaction>
+    <Transaction>2022/03/26 16:24:57.000.623,=C:\Users\Victor\Desktop\dev2\Unit1.pas</Transaction>
+    <Transaction>2022/03/26 16:30:24.000.564,=C:\Users\Victor\Desktop\dev2\Unit1.pas</Transaction>
+    <Transaction>2022/03/26 16:49:55.000.937,=C:\Users\Victor\Desktop\dev2\Unit1.pas</Transaction>
+    <Transaction>2022/03/26 16:51:09.000.955,=C:\Users\Victor\Desktop\dev2\Unit1.pas</Transaction>
+    <Transaction>2022/03/26 16:51:27.000.612,=C:\Users\Victor\Desktop\dev2\Unit1.pas</Transaction>
+    <Transaction>2022/03/26 16:53:24.000.228,=C:\Users\Victor\Desktop\dev2\Unit2.pas</Transaction>
+    <Transaction>2022/03/26 17:44:18.000.671,=C:\Users\Victor\Desktop\dev2\Unit3.pas</Transaction>
+    <Transaction>2022/03/26 17:48:56.000.289,C:\Users\Victor\Desktop\dev2\uEstoque.pas=C:\Users\Victor\Desktop\dev2\Unit3.pas</Transaction>
+    <Transaction>2022/03/26 17:48:56.000.289,C:\Users\Victor\Desktop\dev2\uEstoque.dfm=C:\Users\Victor\Desktop\dev2\Unit3.dfm</Transaction>
+    <Transaction>2022/03/26 17:56:04.000.633,=C:\Users\Victor\Desktop\dev2\Unit1.pas</Transaction>
+    <Transaction>2022/03/26 19:40:17.000.030,C:\Users\Victor\Desktop\dev2\uCadastroProduto.dfm=C:\Users\Victor\Desktop\dev2\Unit1.dfm</Transaction>
+    <Transaction>2022/03/26 19:40:17.000.030,C:\Users\Victor\Desktop\dev2\uCadastroProduto.pas=C:\Users\Victor\Desktop\dev2\Unit1.pas</Transaction>
+    <Transaction>2022/03/27 20:32:24.000.521,=C:\Users\Victor\Desktop\Projetos\dev project\Unit1.pas</Transaction>
+    <Transaction>2022/03/27 20:32:35.000.234,C:\Users\Victor\Desktop\Projetos\dev project\Unit1.dfm=C:\Users\Victor\Desktop\Projetos\dev project\uVendas.dfm</Transaction>
+    <Transaction>2022/03/27 20:32:35.000.234,C:\Users\Victor\Desktop\Projetos\dev project\Unit1.pas=C:\Users\Victor\Desktop\Projetos\dev project\uVendas.pas</Transaction>
+    <Transaction>2022/03/28 21:44:07.000.223,=C:\Users\Victor\Desktop\Projetos\dev project\Unit1.pas</Transaction>
+    <Transaction>2022/03/28 21:44:21.000.249,=C:\Users\Victor\Desktop\Projetos\dev project\Unit1.pas</Transaction>
+    <Transaction>2022/03/28 21:45:16.000.706,C:\Users\Victor\Desktop\Projetos\dev project\Unit1.dfm=C:\Users\Victor\Desktop\Projetos\dev project\uAlterarCadastroCLiente.dfm</Transaction>
+    <Transaction>2022/03/28 21:45:16.000.706,C:\Users\Victor\Desktop\Projetos\dev project\Unit1.pas=C:\Users\Victor\Desktop\Projetos\dev project\uAlterarCadastroCLiente.pas</Transaction>
+    <Transaction>2022/03/28 22:01:12.000.302,C:\Users\Victor\Desktop\Projetos\dev project\uAlterarCadastroCLiente.dfm=C:\Users\Victor\Desktop\Projetos\dev project\uAlterarCadastroCliente.dfm</Transaction>
+    <Transaction>2022/03/28 22:01:12.000.302,C:\Users\Victor\Desktop\Projetos\dev project\uAlterarCadastroCLiente.pas=C:\Users\Victor\Desktop\Projetos\dev project\uAlterarCadastroCliente.pas</Transaction>
+    <Transaction>2022/03/28 22:02:26.000.534,=C:\Users\Victor\Desktop\Projetos\dev project\Unit1.pas</Transaction>
+    <Transaction>2022/03/28 22:21:19.000.146,C:\Users\Victor\Desktop\Projetos\dev project\Unit1.pas=C:\Users\Victor\Desktop\Projetos\dev project\uAlterarCadastroProduto.pas</Transaction>
+    <Transaction>2022/03/28 22:21:19.000.146,C:\Users\Victor\Desktop\Projetos\dev project\Unit1.dfm=C:\Users\Victor\Desktop\Projetos\dev project\uAlterarCadastroProduto.dfm</Transaction>
+    <Transaction>2022/03/28 23:38:30.000.845,=C:\Users\Victor\Desktop\Projetos\dev project\Unit1.pas</Transaction>
+    <Transaction>2022/03/29 20:38:44.237,=C:\Users\Victor\Desktop\Projetos\dev project\Unit1.pas</Transaction>
+    <Transaction>2022/03/29 20:39:22.124,=C:\Users\Victor\Desktop\Projetos\dev project\Unit1.pas</Transaction>
+    <Transaction>2022/03/29 20:40:57.936,C:\Users\Victor\Desktop\Projetos\dev project\uMostrarCadastroCliente.pas=C:\Users\Victor\Desktop\Projetos\dev project\Unit1.pas</Transaction>
+    <Transaction>2022/03/29 20:40:57.936,C:\Users\Victor\Desktop\Projetos\dev project\uMostrarCadastroCliente.dfm=C:\Users\Victor\Desktop\Projetos\dev project\Unit1.dfm</Transaction>
+    <Transaction>2022/03/29 20:46:39.002,=C:\Users\Victor\Desktop\Projetos\dev project\Unit1.pas</Transaction>
+    <Transaction>2022/03/29 20:46:56.659,=C:\Users\Victor\Desktop\Projetos\dev project\Unit1.pas</Transaction>
+    <Transaction>2022/03/29 20:48:30.189,C:\Users\Victor\Desktop\Projetos\dev project\uMostrarCadastroProduto.pas=C:\Users\Victor\Desktop\Projetos\dev project\Unit1.pas</Transaction>
+    <Transaction>2022/03/29 20:48:30.189,C:\Users\Victor\Desktop\Projetos\dev project\uMostrarCadastroProduto.dfm=C:\Users\Victor\Desktop\Projetos\dev project\Unit1.dfm</Transaction>
+    <Transaction>2022/03/29 22:16:46.777,=C:\Users\Victor\Desktop\Projetos\dev project\Unit1.pas</Transaction>
+    <Transaction>2022/03/29 22:17:33.679,C:\Users\Victor\Desktop\Projetos\dev project\uGerenciamentoVendas.pas=C:\Users\Victor\Desktop\Projetos\dev project\Unit1.pas</Transaction>
+    <Transaction>2022/03/29 22:17:33.679,C:\Users\Victor\Desktop\Projetos\dev project\uGerenciamentoVendas.dfm=C:\Users\Victor\Desktop\Projetos\dev project\Unit1.dfm</Transaction>
+    <Transaction>2022/03/29 22:35:28.511,=C:\Users\Victor\Desktop\Projetos\dev project\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>
